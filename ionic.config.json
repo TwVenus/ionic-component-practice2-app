@@ -1,0 +1,7 @@
+{
+  "name": "component-practice-app2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
